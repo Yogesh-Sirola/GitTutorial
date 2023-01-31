@@ -1,0 +1,1 @@
+const value='this is a development env js file'
